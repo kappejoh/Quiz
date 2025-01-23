@@ -105,7 +105,7 @@ const Quiz = () => {
                         </div>
                     </div>
                     <hr />
-                    <h2 class='question-txt'>{currentQuestion.question}</h2>
+                    <h2 className='question-txt'>{currentQuestion.question}</h2>
                     <ul>
                         {currentQuestion.options.map((option, index) => (
                             <li key={index}>
