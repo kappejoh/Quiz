@@ -1,0 +1,53 @@
+ [
+    {
+    "question": "På vilket album av Led Zeppelin finns låten 'Stairway to Heaven'?",
+    "options": ["Physical Graffiti", "Led Zeppelin IV", "Houses of the Holy"],
+    "correctAnswer": "Led Zeppelin IV"
+    },
+    {
+    "question": "Vilken låt från Pink Floyds 'Dark Side of the Moon' är känd för att ha en kvinnlig sångare som sjunger en gripande improvisation utan ord?",
+    "options": ["Time", "The Great Gig in the Sky", "Us and Them"],
+    "correctAnswer": "The Great Gig in the Sky"
+    },
+    {
+    "question": "Vad heter trummisen i bandet Toto?",
+    "options": ["John Bonham", "Lars Ulrich", "Jeff Porcaro"],
+    "correctAnswer": "Jeff Porcaro"
+    },
+    
+    {
+    "question": "Vilken Queen-låt tog över tre veckor att spela in och inkluderar över 180 separata inspelningar för att skapa dess ikoniska kördelar?",
+    "options": ["Bohemian Rhapsody", "Somebody to Love", "We Are the Champions"],
+    "correctAnswer": "Bohemian Rhapsody"
+    },
+    {
+    "question": "Vilken låt av Deep Purple skrevs som en berättelse om en verklig händelse där en konsertlokal brann ner?",
+    "options": ["Burn", "Highway Star", "Smoke on the Water"],
+    "correctAnswer": "Smoke on the Water"
+    },
+    {
+    "question": "Fleetwood Macs 'Rumours' är ett av de mest sålda albumen genom tiderna. Vilken låt från albumet skrevs av Lindsey Buckingham efter hans uppbrott med Stevie Nicks?",
+    "options": ["Go Your Own Way", "Dreams", "Second Hand News"],
+    "correctAnswer": "Go Your Own Way"
+    },
+    {
+    "question": "Vad var anledningen till att AC/DC döpte sitt album från 1980 till 'Back in Black'?",
+    "options": ["För att markera deras nya skivbolag", "För att hedra deras avlidne sångare Bon Scott", "För att symbolisera deras återkomst till scenen"],
+    "correctAnswer": "För att hedra deras avlidne sångare Bon Scott"
+    },
+    {
+    "question": "Vilken Rolling Stones-låt anses vara en av de första riktiga rock-anthems och blev deras första listetta i USA?",
+    "options": ["(I Can't Get No) Satisfaction", "Paint It Black", "Jumpin' Jack Flash"],
+    "correctAnswer": "(I Can't Get No) Satisfaction"
+    },
+    {
+    "question": "Vilken Eagles-låt skildrar en mörk berättelse om en plats som är lätt att checka in på men svår att lämna?",
+    "options": ["New Kid in Town", "Desperado", "Hotel California"],
+    "correctAnswer": "Hotel California"
+    },
+    {
+    "question": "Rage Against the Machines låt 'Killing in the Name' är känd för sin råa energi och politiska budskap. Vilken händelse inspirerade texten?",
+    "options": ["Polisbrutalitet", "Ett historiskt uppror", "Ett tal av Malcolm X"],
+    "correctAnswer": "Polisbrutalitet"
+    }
+  ]
