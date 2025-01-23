@@ -9,7 +9,7 @@ const Quiz = () => {
     const [score, setScore] = useState(0);
     const [quizComplete, setQuizComplete] = useState(false);
     const [hasError, setHasError] = useState(false);
-    const [timeLeft, setTimeLeft] = useState(10);
+    const [timeLeft, setTimeLeft] = useState(20);
 
     useEffect(() => {
         fetch('assets/Questions.json')
@@ -32,7 +32,7 @@ const Quiz = () => {
         }
 
         const currentQuestion = questions[currentIndex];
-        setTimeLeft(10);
+        setTimeLeft(20);
 
         const timer = setInterval(() => {
             setTimeLeft((prevTime) => {
@@ -105,7 +105,7 @@ const Quiz = () => {
                         </div>
                     </div>
                     <hr />
-                    <h2>{currentQuestion.question}</h2>
+                    <h2 class='question-txt'>{currentQuestion.question}</h2>
                     <ul>
                         {currentQuestion.options.map((option, index) => (
                             <li key={index}>

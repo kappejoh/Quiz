@@ -39,6 +39,19 @@
   }
   
   .start-quiz-button:hover {
-    background-color: #0056b3;
+    border-color: #0000;
   }
-  
+
+  @media (max-width: 768px) {
+    .welcome-container {
+        width: 60%;
+        padding: 20px;
+        font-size: 60%;
+    }
+
+    .welcome-container button {
+        width: 70%;
+        height: 25%;
+        font-size: 170%;
+    }
+  }
